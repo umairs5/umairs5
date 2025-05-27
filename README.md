@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Machine Learning Engineer with 2+ years of experience building production AI applications. Currently at Vyro.ai, I develop multi-modal AI systems for text-to-image, text-to-video, and voice generation, serving 10,000+ daily users. I specialize in computer vision, NLP, and generative AI, with a background in Electrical Engineering from NUST. I've built everything from autonomous drone navigation systems to e-commerce recommendation engines, and I'm passionate about deploying scalable ML solutions that solve real-world problems.
+I'm a Machine Learning Engineer with 2+ years of experience building production AI applications. I develop multi-modal AI systems for text-to-image, text-to-video, and voice generation, serving 10,000+ daily users. I specialize in computer vision, NLP, and generative AI, with a background in Electrical Engineering from NUST. I've built everything from autonomous drone navigation systems to e-commerce recommendation engines, and I'm passionate about deploying scalable ML solutions that solve real-world problems.
 
 
 ## 🌐 Socials:
